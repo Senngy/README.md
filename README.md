@@ -18,8 +18,7 @@
 | Projet | Stack | Objectif |
 |--------|-------|----------|
 | 📝 [App Todo](#) | React • Tailwind • Node.js • Sequelize | Authentification, gestion de tâches, API REST |
-| 🎮 [Plateforme de challenge gaming](#) | SvelteKit 5 • PostgreSQL • Figma | Expérience interactive multi-joueurs |
-| 📦 
+| 🎮 [Plateforme de challenge gaming](#) | SvelteKit 5 • Node.js • Sequelize • PostgreSQL • Figma | Expérience interactive multi-joueurs |
 
 > 🔗 [Découvrir tous mes projets](https://github.com/Senngy?tab=repositories)
 
@@ -28,17 +27,16 @@
 ## 👀 En ce moment...
 
 - Je termine un Bachelor Développeur Web chez **O’clock**
-- Je cherche un **stage ou alternance** pour mettre mes compétences JS / SQL en pratique
-- Je creuse les performances SvelteKit, les bonnes pratiques d'architecture et un peu de devOps
+- Je cherche un **stage ou alternance** pour mettre mes compétences en pratique
+- Je développe une librairie perso sur Svelte, travail avec React et un peu de devOps
 
 ---
 
 ## 🧠 Un peu plus...
 
-- 💬 J'aime coder, apprendre, échanger et documenter
-- 🏀 Fan de basket (surtout les passes bien placées)
-- 🌍 Motivé par la tech éthique, utile et accessible
-- 📫 **Contact :** [sylvainmarchal@hotmail.com](mailto:sylvainmarchal@hotmail.com) • [LinkedIn](https://linkedin.com/in/username)
+- 💬 J'aime coder, apprendre, échanger
+- 🏀 Fan de basket
+- 📫 **Contact :** [sylvainmarchal@hotmail.com](mailto:sylvainmarchal@hotmail.com) •
 
 ---
 
